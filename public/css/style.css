@@ -1,0 +1,14 @@
+h1{
+    color: rgb(12, 203, 28);
+}
+*{
+    background-color: blanchedalmond;
+}
+.time{
+    text-align: center;
+    color: rgb(9, 101, 98);
+}
+img{
+    width:1500px;
+    justify-content:center ;
+}
